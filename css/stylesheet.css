@@ -13,7 +13,7 @@ a {
     text-decoration: underline;
     color: #FF9;
     font-family: 'Source Sans Pro', sans-serif;
-    font-size: 1rem;
+    font-size: 1.5rem;
 }
 
 a:hover {
@@ -30,7 +30,7 @@ a:hover {
 
 .ol1 li {
     display: inline;
-    padding: 0.5rem
+    padding: 0.5rem;
 }
 
 h2 {
@@ -47,8 +47,14 @@ p {
 
 i, em {
     color: #FF9;
+    font-style: normal
 }
 
+blockquote {
+    color: #9CF;
+    font-size: 1rem;
+    font-family: 'Orbitron', sans-serif;
+}
 .ol2 {
     list-style: disc;
     color: #FF9;
