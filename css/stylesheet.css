@@ -1,24 +1,52 @@
-head {
-    color: #006;
+html {
+    background-color: #000;
 }
 
 h1 {
-    font-size: 4rem;
-    font-weight: lighter;
+    font-size: 6rem;
+    font-weight: normal;
     font-family: 'Orbitron', sans-serif;
-    color: #CCFFFF;
+    color: #FF9;
+    padding: .5rem 0 0;
+    margin: 5rem 0 1.5rem
 }
 
 a {
     text-decoration: underline;
-    color: #99CCFF;
+    color: #FF9;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1rem;
 }
 
 a:hover {
-    color: #9999FF   
+    color: #CFF;
 }
 
 .ol1 {
-     list-style-type: none;
+    list-style-type: none;
+    text-align: center;
+    margin-bottom: 6rem;
+    background-color: #069;
+    padding: 1.5rem 0;
 }
+
+.ol1 li {
+    padding: 1rem;
+    display: inline;
+    padding: 1.5rem
+}
+
+h2 {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 3rem;
+    color: #CFF;
+}
+
+p {
+    color: #FFFFEB;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1.2rem;
+}
+
+
 
