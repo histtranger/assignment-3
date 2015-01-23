@@ -1,6 +1,21 @@
+html {
+    color: #000066;
+}
+
 header {
     font-size: 5rem;
     font-weight: lighter;
     font-family: 'Orbitron', sans-serif;
+    color: #CCFFFF;
+}
+
+a {
+    list-style-type: none;
+    text-decoration: underline;
+    color: #99CCFF;
+}
+
+a:hover {
+    color: #9999FF   
 }
 
