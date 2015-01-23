@@ -1,9 +1,9 @@
-html {
-    color: #000066;
+head {
+    color: #006;
 }
 
-header {
-    font-size: 5rem;
+h1 {
+    font-size: 4rem;
     font-weight: lighter;
     font-family: 'Orbitron', sans-serif;
     color: #CCFFFF;
@@ -21,3 +21,4 @@ a:hover {
 .ol1 {
      list-style-type: none;
 }
+
