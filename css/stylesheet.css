@@ -3,12 +3,10 @@ html {
 }
 
 h1 {
-    font-size: 6rem;
+    font-size: 5rem;
     font-weight: normal;
     font-family: 'Orbitron', sans-serif;
     color: #FF9;
-    padding: .5rem 0 0;
-    margin: 5rem 0 1.5rem
 }
 
 a {
@@ -31,9 +29,8 @@ a:hover {
 }
 
 .ol1 li {
-    padding: 1rem;
     display: inline;
-    padding: 1.5rem
+    padding: 0.5rem
 }
 
 h2 {
@@ -47,6 +44,47 @@ p {
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 1.2rem;
 }
+
+i, em {
+    color: #FF9;
+}
+
+.ol2 {
+    list-style: disc;
+    color: #FF9;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1.25rem
+}
+
+figcaption {
+    font-size: 1rem;
+    color: #9CF;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+dt {
+    color: #FFFFEB;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1.25rem
+}
+ 
+data {
+    color: #FF9;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1rem
+}
+    
+footer {
+    background-color: #069;
+    padding: .25rem 0 5rem .5rem;
+}
+
+h3 {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 2rem;
+    color: #CFF;
+}
+    
 
 
 
